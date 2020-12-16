@@ -11,6 +11,7 @@ const Hero = () => (
           layout="fill"
           objectFit="cover"
           objectPosition="center"
+          priority={true}
         />
       </div>
       <p>Nextjs Image component</p>
